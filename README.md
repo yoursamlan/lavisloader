@@ -1,2 +1,2 @@
 # lavisloader
-Loading website of LAVis1.0
+Loading website of [LAVis2.0](https://yoursamlan.github.io/lavis)
